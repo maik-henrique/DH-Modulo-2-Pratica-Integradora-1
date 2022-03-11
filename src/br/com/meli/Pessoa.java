@@ -1,9 +1,7 @@
 package br.com.meli;
 
 public class Pessoa {
-    /*Vamos criar diferentes construtores na classe Pessoa, um sem parâmetros, e o outro deve
-receber nome, idade e ID como parâmetros; e por fim criaremos um terceiro construtor que
-recebe como parâmetro todos os atributos da classe..*/
+
     private String nome;
     private int idade;
     private String id;
